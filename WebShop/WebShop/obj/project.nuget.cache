@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eRMnCfPPhIVO0PiZLb8eN7x10CIbTjZLZTudnWNUD7ZSt2k7/jBKLpJoXveiVxXEw7ArIf91v85pHEsn1GTVww==",
+  "dgSpecHash": "kiyjukYIkWGqK3V+8JG8ZNnarWMr5mJSpfg5JLgAmNiA+Il9BZr2mo+lgQFcw1WzQMoe6DXItasS48gvrInfqQ==",
   "success": true,
-  "projectFilePath": "/home/orhan/Desktop/Web_Api/WebShop/WebShop/WebShop.csproj",
+  "projectFilePath": "/home/orhan/Desktop/WebTestApp/WebShop/WebShop/WebShop.csproj",
   "expectedPackageFiles": [
     "/home/orhan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/orhan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

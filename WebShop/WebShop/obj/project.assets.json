@@ -823,11 +823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/orhan/Desktop/Web_Api/WebShop/WebShop/WebShop.csproj",
+      "projectUniqueName": "/home/orhan/Desktop/WebTestApp/WebShop/WebShop/WebShop.csproj",
       "projectName": "WebShop",
-      "projectPath": "/home/orhan/Desktop/Web_Api/WebShop/WebShop/WebShop.csproj",
+      "projectPath": "/home/orhan/Desktop/WebTestApp/WebShop/WebShop/WebShop.csproj",
       "packagesPath": "/home/orhan/.nuget/packages/",
-      "outputPath": "/home/orhan/Desktop/Web_Api/WebShop/WebShop/obj/",
+      "outputPath": "/home/orhan/Desktop/WebTestApp/WebShop/WebShop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/orhan/.nuget/NuGet/NuGet.Config"
