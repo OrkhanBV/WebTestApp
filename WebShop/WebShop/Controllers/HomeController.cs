@@ -18,7 +18,9 @@ namespace WebShop.Controllers
         public ViewResult Index()
         {
             CarsListViewModel obj = new CarsListViewModel();
-            obj.allCars = _allCars.Cars;
+            //obj.allCars = _allCars.Cars;
+            obj.allCars = _allCars.CarsElectro;
+            //obj.allCars = _allCars.getLastCar;
             obj.currCategory = "Автомобили";
             return View(obj);
         }

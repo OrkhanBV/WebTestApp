@@ -2,6 +2,8 @@ using System.Collections.Generic;
 using WebShop.Data.Models;
 using WebShop.Data.Repository;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore.Query;
+
 /*************************************************************************
 **************************************************************************
 
@@ -24,6 +26,9 @@ namespace WebShop.Data.Interfaces
         
 
             IEnumerable<Car> Cars { get; }
+            IEnumerable<Car> CarsElectro { get; }
+            
+            //Car getLastCar { get; }
             IEnumerable<Car> getFavCars { get; }
             Car getObjectCar(int carId);
             
